@@ -1,2 +1,22 @@
-# visioncheck-app
-Smart Eye Checkup Application built using Flutter
+
+# VisionCheck App
+
+A smart eye testing application built using Flutter.
+
+## Features
+
+- Visual Acuity Test
+- Color Blindness Test
+- Astigmatism Test
+- Eye Health Score
+- Result Analysis
+
+## Technologies
+
+- Flutter
+- Dart
+- Firebase
+
+## Author
+
+Sathwika
